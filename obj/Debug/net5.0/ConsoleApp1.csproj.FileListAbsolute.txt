@@ -1,0 +1,16 @@
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\AMweb\source\repos\getter_setter_demo_net5\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
