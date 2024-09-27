@@ -12,25 +12,27 @@ namespace ConsoleApp1
         float _health;
 
         // short hand way of setting Health { get{ return health;}
-        public float Health => _health;
-        public float HealthAlso
+       
+        public float Health
         {
             get
             {
                 return _health;
             }
+          
             set
             {
-                // Setting also allows you to add some kind of validations or manipulate the data.
+                // setting also allows you to add some kind of validations or manipulate the data.
 
                 // make sure health is greater then 10
-                if (value < 10)
+                if (value <= 4)
                 {
                     Console.WriteLine("cannot set health less the 10");
                     return;
                 }
                 // if health is greater then 10 then set the health
                 _health = value;
+                Console.WriteLine("you set _health to : " + _health);
             }
         }
     }

@@ -11,12 +11,13 @@ namespace ConsoleApp1
             // instantiate my object to create a point in memory and hold a ref to it.
             MyObject myObject = new MyObject();
 
-            // a variable to make changing input easy. its better then wrinting Console.Writeline()
-            float input = 0;
-            Console.WriteLine("Enter health value: ");
-            input = float.Parse(Console.ReadLine());
-            myObject.HealthAlso = input;
-            Console.WriteLine($"Health: {myObject.HealthAlso}");
+            //set the Health of myObject
+            // set the _health private variable
+            myObject.Health = 16;
+
+            //Get the Health of my object 
+            // references _health private variable 
+            Console.WriteLine($"{myObject.Health}");
 
         }
     }
